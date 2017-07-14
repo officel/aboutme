@@ -1,0 +1,28 @@
+# https://github.com/gitpitch/gitpitch/wiki/Theme-Setting
+# theme : night
+
+# https://github.com/gitpitch/gitpitch/wiki/Background-Setting
+# background : 
+# background-size :
+
+# https://github.com/gitpitch/gitpitch/wiki/Logo-Setting
+# logo :
+
+# https://github.com/gitpitch/gitpitch/wiki/Highlight-Setting
+# highlight : monokai
+
+# https://github.com/gitpitch/gitpitch/wiki/Slide-Number-Setting
+slide-number : true
+
+# https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting
+footnote : "&copy; 2017 Office L."
+
+# https://github.com/gitpitch/gitpitch/wiki/Math-Notation-Setting
+# mathjax : TeX-MML-AM_HTMLorMML-full
+
+# https://github.com/gitpitch/gitpitch/wiki/Vertical-Center-Setting
+# vertical-center : false
+
+# https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
+# theme-override : assets/css/PITCHME.css
+
