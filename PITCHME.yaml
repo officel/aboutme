@@ -54,3 +54,8 @@ mousewheel : true
 # https://github.com/gitpitch/gitpitch/wiki/Remote-Control-Navigation
 remote-control: true
 
+
+# https://github.com/gitpitch/gitpitch/wiki/Google-Analytics
+gatoken : UA-102556709-1
+
+
