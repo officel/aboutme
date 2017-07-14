@@ -1,9 +1,11 @@
 # Slideshow Look and Feel
 
 # https://github.com/gitpitch/gitpitch/wiki/Theme-Setting
-theme : white
+# 設定するとWebUIで変更できなくなることに注意
+# theme : white
 
 # https://github.com/gitpitch/gitpitch/wiki/Background-Setting
+# 設定すると全ページに適用されることに注意
 # background : 
 # background-size :
 
