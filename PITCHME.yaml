@@ -30,3 +30,27 @@ footnote : "© 2017 Office L."
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Custom-CSS
 # theme-override : assets/css/PITCHME.css
 
+
+# Slideshow Behavior
+
+# https://github.com/gitpitch/gitpitch/wiki/Auto-Slide-Setting
+# autoslide : 5000
+
+# https://github.com/gitpitch/gitpitch/wiki/Loop-Setting
+# loop : true
+
+# https://github.com/gitpitch/gitpitch/wiki/RTL-Setting
+# 日本語では不要
+# rtl : true
+
+# https://github.com/gitpitch/gitpitch/wiki/Transition-Setting
+# convex, concave, default, fade, none, slide and zoom
+transition : fade
+
+# https://github.com/gitpitch/gitpitch/wiki/Mouse-Wheel-Setting
+mousewheel : true
+
+
+# https://github.com/gitpitch/gitpitch/wiki/Remote-Control-Navigation
+remote-control: true
+
