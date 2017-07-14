@@ -27,9 +27,20 @@ Learn GitPitch
 
 +++
 
-* Hobby : Books, Music Simulation Games.
-* Favorite : Cigarette, Coffee, Anime.
-* Not for me : Liquor
+* Hobby
+
+    * Books
+    * Music Simulation Games.
+
+* Favorite
+
+    * Cigarette
+    * Coffee
+    * Anime
+
+* Not for me
+
+    * Liquor
 
 ---
 
